@@ -1,0 +1,28 @@
+.center-header{
+    text-align: center;
+    color: #ce4f4f;
+}
+.skill-container{
+    text-align: center;
+    padding: 10px;
+    text-align: left;
+    margin: auto;
+    margin-top: 20px;
+}
+h3{
+    color: #39679c;
+}
+div {
+      max-width: 500px;
+      padding: 10px;
+      border: 2px solid #0f304d;
+}
+body {
+    color: #1c6875;
+    background-color: rgb(218, 233, 243);
+    font-family: "Times New Roman", Times, serif;
+}
+img {
+    border: 2px solid #132436;
+    border-radius: 20px;
+}
